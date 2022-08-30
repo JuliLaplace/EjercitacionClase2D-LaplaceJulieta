@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julieta\\Desktop\\ProgramLabo II\\EjercitacionClase2D-LaplaceJulieta\\Ejercicio02\\Ejercicio02.csproj",
+      "projectUniqueName": "C:\\Users\\Julieta\\Desktop\\EjercitacionClase2D-LaplaceJulieta\\EjercitacionClase2D-LaplaceJulieta\\Ejercicio02\\Ejercicio02.csproj",
       "projectName": "Ejercicio02",
-      "projectPath": "C:\\Users\\Julieta\\Desktop\\ProgramLabo II\\EjercitacionClase2D-LaplaceJulieta\\Ejercicio02\\Ejercicio02.csproj",
+      "projectPath": "C:\\Users\\Julieta\\Desktop\\EjercitacionClase2D-LaplaceJulieta\\EjercitacionClase2D-LaplaceJulieta\\Ejercicio02\\Ejercicio02.csproj",
       "packagesPath": "C:\\Users\\Julieta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julieta\\Desktop\\ProgramLabo II\\EjercitacionClase2D-LaplaceJulieta\\Ejercicio02\\obj\\",
+      "outputPath": "C:\\Users\\Julieta\\Desktop\\EjercitacionClase2D-LaplaceJulieta\\EjercitacionClase2D-LaplaceJulieta\\Ejercicio02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julieta\\AppData\\Roaming\\NuGet\\NuGet.Config",

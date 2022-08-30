@@ -1,0 +1,16 @@
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\bin\Debug\net5.0\Ejercicio-l08.exe
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\bin\Debug\net5.0\Ejercicio-l08.deps.json
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\bin\Debug\net5.0\Ejercicio-l08.runtimeconfig.json
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\bin\Debug\net5.0\Ejercicio-l08.runtimeconfig.dev.json
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\bin\Debug\net5.0\Ejercicio-l08.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\bin\Debug\net5.0\Ejercicio-l08.pdb
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\obj\Debug\net5.0\Ejercicio-l08.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\obj\Debug\net5.0\Ejercicio-l08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\obj\Debug\net5.0\Ejercicio-l08.AssemblyInfoInputs.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\obj\Debug\net5.0\Ejercicio-l08.AssemblyInfo.cs
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\obj\Debug\net5.0\Ejercicio-l08.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\obj\Debug\net5.0\Ejercicio-l08.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\obj\Debug\net5.0\refint\Ejercicio-l08.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\obj\Debug\net5.0\Ejercicio-l08.pdb
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\obj\Debug\net5.0\Ejercicio-l08.genruntimeconfig.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Ejercicio-l08\obj\Debug\net5.0\ref\Ejercicio-l08.dll
