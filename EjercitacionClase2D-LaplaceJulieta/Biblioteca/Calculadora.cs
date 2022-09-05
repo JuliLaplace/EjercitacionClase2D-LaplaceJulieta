@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
-    internal class Calculadora
+    public class Calculadora
     {
-        public  int Calcular(int primerOperando, int segundoOperando, char operacionMatematica)
+        public static decimal Calcular(decimal primerOperando, decimal segundoOperando, char operacionMatematica)
         {
-            int resultado=0;
+            decimal resultado;
             switch (operacionMatematica)
             {
                 case '+':
@@ -23,9 +23,10 @@ namespace Biblioteca
                     resultado = primerOperando * segundoOperando;
                     break;
                 case '/':
-                    if (Validar(segundoOperando))
+                    if (!Validar(segundoOperando))
                     {
-                        resultado = -1;
+                        resultado = 0; // si devuelve 0 en program pongo un CW para informar que nio se realizo la division por divisor =0
+                        
                     }
                     else
                     {
@@ -34,22 +35,22 @@ namespace Biblioteca
                     break;
 
                 default:
-                    Console.WriteLine("Operador ingresado incorrecto. Resultado de la operacion = 0");
-                    
+                    Console.WriteLine("Operador ingresado incorrecto.");
+                    resultado = 0;
                     break;
             }
-            //aca pongo un switch? para poner orciones de + - / *
+            
             return resultado;
         }
 
-        private bool Validar(int segundoOperando)
+        private static bool Validar(decimal segundoOperando)
         {
-            bool operandoCero= true;
-            if (segundoOperando ==0)
+            bool operandoNoEsCero= false;
+            if (segundoOperando !=0)
             {
-                operandoCero = true;
+                operandoNoEsCero = true;
             }
-            return operandoCero;
+            return operandoNoEsCero;
         }
     }
 }
