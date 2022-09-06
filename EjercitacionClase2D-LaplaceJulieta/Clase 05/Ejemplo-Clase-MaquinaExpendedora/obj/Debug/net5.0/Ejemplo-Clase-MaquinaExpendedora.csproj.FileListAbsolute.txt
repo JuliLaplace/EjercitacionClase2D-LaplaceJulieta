@@ -1,0 +1,16 @@
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\bin\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.exe
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\bin\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.deps.json
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\bin\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.runtimeconfig.json
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\bin\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.runtimeconfig.dev.json
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\bin\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\bin\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.pdb
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\obj\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\obj\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\obj\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.AssemblyInfoInputs.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\obj\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.AssemblyInfo.cs
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\obj\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\obj\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\obj\Debug\net5.0\refint\Ejemplo-Clase-MaquinaExpendedora.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\obj\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.pdb
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\obj\Debug\net5.0\Ejemplo-Clase-MaquinaExpendedora.genruntimeconfig.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 05\Ejemplo-Clase-MaquinaExpendedora\obj\Debug\net5.0\ref\Ejemplo-Clase-MaquinaExpendedora.dll
