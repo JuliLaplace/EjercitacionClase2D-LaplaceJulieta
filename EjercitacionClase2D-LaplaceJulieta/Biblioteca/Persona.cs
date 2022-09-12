@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+
 /*Construir los siguientes métodos para la clase:
 
 Setter y getter para cada uno de los atributos.
@@ -20,40 +18,88 @@ namespace Biblioteca
         //atributos
         private string nombre;
         private int dni;
-        DateTime fechaDeNacimiento;
+        private DateTime fechaDeNacimiento;
 
-        public Persona()
-        {
-            this.dni = 0;
-            this.nombre = "";
-            this.fechaDeNacimiento = DateTime.Today;
-        }
-        public Persona(string nombre, int dni, DateTime fechaDeNacimiento)
+        //constructor
+       public Persona(string nombre, int dni, DateTime fechaDeNacimiento)
         {
             this.nombre = nombre;
             this.dni = dni;
             this.fechaDeNacimiento = fechaDeNacimiento;
         }
 
-
-        public int GetDni()
+        public int Dni
         {
-            return this.dni;
+            get
+            {
+                return dni;
+
+            }
+            set 
+            { 
+                if(value > 0)
+                {
+                    this.dni = value; 
+
+                }
+            }    
         }
 
-        public void SetDni(int dni)
+        public string Nombre
         {
-            this.dni = dni;
+            get
+            {
+                return nombre;
+
+            }
+            set
+            {
+                    this.nombre = value;
+               
+            }
+        }
+        public DateTime FechaDeNacimiento
+        {
+            get
+            {
+                return fechaDeNacimiento;
+
+            }
+            set
+            {
+                this.fechaDeNacimiento = value;
+
+            }
         }
 
-        public string GetNombre()
+
+
+        private int CalcularEdad()
         {
-            return this.dni;
+            return DateTime.Today.AddTicks(-fechaDeNacimiento.Ticks).Year - 1;
+            
         }
 
-        public void SetNombre(int dni)
+        public string EsMayorDeEdad()
         {
-            this.dni = dni;
+            string esMayor = "Es mayor de edad";
+
+            if (CalcularEdad() < 18) //podria usar el metodo CalcularEdad aca?
+            {
+                esMayor = "Es menor";
+            }
+            return esMayor;
+        }
+        public string Mostrar()
+        {
+
+            System.Text.StringBuilder texto = new System.Text.StringBuilder();
+            texto.AppendLine("Datos a mostrar:");
+            texto.AppendLine($"Nombre:{nombre} ");
+            texto.AppendLine($"DNI:{dni} ");
+            texto.AppendLine($"Edad:{CalcularEdad()} años.");
+
+            return texto.ToString();
         }
     }
 }

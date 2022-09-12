@@ -1,0 +1,16 @@
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\bin\Debug\net5.0\C3-Ej-l08.exe
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\bin\Debug\net5.0\C3-Ej-l08.deps.json
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\bin\Debug\net5.0\C3-Ej-l08.runtimeconfig.json
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\bin\Debug\net5.0\C3-Ej-l08.runtimeconfig.dev.json
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\bin\Debug\net5.0\C3-Ej-l08.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\bin\Debug\net5.0\C3-Ej-l08.pdb
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\obj\Debug\net5.0\C3-Ej-l08.csproj.AssemblyReference.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\obj\Debug\net5.0\C3-Ej-l08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\obj\Debug\net5.0\C3-Ej-l08.AssemblyInfoInputs.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\obj\Debug\net5.0\C3-Ej-l08.AssemblyInfo.cs
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\obj\Debug\net5.0\C3-Ej-l08.csproj.CoreCompileInputs.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\obj\Debug\net5.0\C3-Ej-l08.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\obj\Debug\net5.0\refint\C3-Ej-l08.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\obj\Debug\net5.0\C3-Ej-l08.pdb
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\obj\Debug\net5.0\C3-Ej-l08.genruntimeconfig.cache
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l08\obj\Debug\net5.0\ref\C3-Ej-l08.dll

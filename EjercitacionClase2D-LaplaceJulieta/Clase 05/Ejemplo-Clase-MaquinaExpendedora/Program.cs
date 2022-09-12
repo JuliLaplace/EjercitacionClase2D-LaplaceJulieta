@@ -37,7 +37,7 @@ namespace Ejemplo_Clase_MaquinaExpendedora
             do
             {
                 Console.WriteLine("Productos disponibles:");
-                foreach (KeyValuePair<int, string> item in maquinaExpendedora)
+                foreach (KeyValuePair<int, string> item in maquinaExpendedora) // para recorrer diccionario
                 {
                     Console.WriteLine($"Codigo: {item.Key} - Producto: {item.Value}");
                 }

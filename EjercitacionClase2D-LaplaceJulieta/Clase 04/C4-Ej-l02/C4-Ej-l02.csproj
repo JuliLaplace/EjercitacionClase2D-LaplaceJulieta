@@ -6,4 +6,8 @@
     <RootNamespace>C4_Ej_l02</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Biblioteca\Biblioteca.csproj" />
+  </ItemGroup>
+
 </Project>
