@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "Biblioteca/1.0.0": {
+      "BibliotecaDeClases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/Biblioteca.dll": {}
+          "bin/placeholder/BibliotecaDeClases.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Biblioteca.dll": {}
+          "bin/placeholder/BibliotecaDeClases.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Biblioteca/1.0.0": {
+    "BibliotecaDeClases/1.0.0": {
       "type": "project",
-      "path": "../../Biblioteca/Biblioteca.csproj",
-      "msbuildProject": "../../Biblioteca/Biblioteca.csproj"
+      "path": "../../Clase 02/BibliotecaDeClases/BibliotecaDeClases.csproj",
+      "msbuildProject": "../../Clase 02/BibliotecaDeClases/BibliotecaDeClases.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Biblioteca >= 1.0.0"
+      "BibliotecaDeClases >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Julieta\\Desktop\\EjercitacionClase2D-LaplaceJulieta\\EjercitacionClase2D-LaplaceJulieta\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Users\\Julieta\\Desktop\\EjercitacionClase2D-LaplaceJulieta\\EjercitacionClase2D-LaplaceJulieta\\Biblioteca\\Biblioteca.csproj"
+            "C:\\Users\\Julieta\\Desktop\\EjercitacionClase2D-LaplaceJulieta\\EjercitacionClase2D-LaplaceJulieta\\Clase 02\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+              "projectPath": "C:\\Users\\Julieta\\Desktop\\EjercitacionClase2D-LaplaceJulieta\\EjercitacionClase2D-LaplaceJulieta\\Clase 02\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
             }
           }
         }

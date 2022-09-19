@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v5.0": {
       "C4-Ej-l02/1.0.0": {
         "dependencies": {
-          "Biblioteca": "1.0.0"
+          "BibliotecaDeClases": "1.0.0"
         },
         "runtime": {
           "C4-Ej-l02.dll": {}
         }
       },
-      "Biblioteca/1.0.0": {
+      "BibliotecaDeClases/1.0.0": {
         "runtime": {
-          "Biblioteca.dll": {}
+          "BibliotecaDeClases.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Biblioteca/1.0.0": {
+    "BibliotecaDeClases/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,5 +1,5 @@
 ﻿using System;
-using Biblioteca;
+using BibliotecaDeClases;
 namespace C4_Ej_l03
 {
     internal class Program

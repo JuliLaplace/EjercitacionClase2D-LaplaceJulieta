@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Text;
-using Biblioteca;
+using BibliotecaDeClases;
 
 namespace C4_Ej_l02
 {

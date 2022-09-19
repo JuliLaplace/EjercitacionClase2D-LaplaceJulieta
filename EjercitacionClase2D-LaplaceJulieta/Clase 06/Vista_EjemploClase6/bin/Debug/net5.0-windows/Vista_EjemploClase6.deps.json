@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Vista_EjemploClase6/1.0.0": {
+        "runtime": {
+          "Vista_EjemploClase6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vista_EjemploClase6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

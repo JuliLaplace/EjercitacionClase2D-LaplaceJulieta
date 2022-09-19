@@ -4,8 +4,6 @@ C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-
 C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\bin\Debug\net5.0\C3-Ej-l05.runtimeconfig.dev.json
 C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\bin\Debug\net5.0\C3-Ej-l05.dll
 C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\bin\Debug\net5.0\C3-Ej-l05.pdb
-C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\bin\Debug\net5.0\Biblioteca.dll
-C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\bin\Debug\net5.0\Biblioteca.pdb
 C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\obj\Debug\net5.0\C3-Ej-l05.csproj.AssemblyReference.cache
 C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\obj\Debug\net5.0\C3-Ej-l05.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\obj\Debug\net5.0\C3-Ej-l05.AssemblyInfoInputs.cache
@@ -17,3 +15,5 @@ C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-
 C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\obj\Debug\net5.0\C3-Ej-l05.pdb
 C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\obj\Debug\net5.0\C3-Ej-l05.genruntimeconfig.cache
 C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\obj\Debug\net5.0\ref\C3-Ej-l05.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\bin\Debug\net5.0\BibliotecaDeClases.dll
+C:\Users\Julieta\Desktop\EjercitacionClase2D-LaplaceJulieta\EjercitacionClase2D-LaplaceJulieta\Clase 03\C3-Ej-l05\bin\Debug\net5.0\BibliotecaDeClases.pdb

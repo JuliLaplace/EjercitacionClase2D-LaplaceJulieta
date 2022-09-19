@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Biblioteca;
+using BibliotecaDeClases;
 namespace Ejermplo_Clase_SeAcaboLaComida
 {
     internal class Program

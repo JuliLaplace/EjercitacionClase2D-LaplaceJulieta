@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Biblioteca;
+using BibliotecaDeClases;
 
 namespace Ejemplo_Clase_MaquinaExpendedora_Bonus
 {
